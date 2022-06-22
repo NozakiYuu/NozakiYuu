@@ -62,8 +62,7 @@ After finishing all of 3 exams, I will update my plans here.
 ## Coding experience on GitHub
 ### Streaks & Stats
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=NozakiYuu&show_icons=true&theme=gotham&count_private=true" alt="NozakiYuu" width="45%" align="right" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NozakiYuu&theme=dark" width="45%" align="left" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NozakiYuu&theme=dark" width="45%" /> <img src="https://github-readme-stats.vercel.app/api?username=NozakiYuu&show_icons=true&theme=gotham&count_private=true" alt="NozakiYuu" width="45%" />
 </p>
 <p style="clear: both; margin-top: 10px">
 <h3>Top Languages</h3>
