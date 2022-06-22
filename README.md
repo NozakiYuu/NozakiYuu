@@ -7,7 +7,7 @@
 
 ## 👋 Hi there!
 
-I'm Nozaki Yuu! Actually I'm not the "real" Nozaki Yuu at the image above that was came from an anime, but I treated her as my waifu so I set the GitHub username into this one!<br>
+I'm Nozaki Yuu! Actually I'm not the "real" Nozaki Yuu at the image above that was came from an anime, but I treated her as my waifu so I set my GitHub username into this one!<br>
 Apart from Nozaki Yuu, I also have other nicknames such as Rink4, Meir, Nico Levianth, LilShieru (*my old GitHub username*) and Serena1432! You can call me whatever name you want but I'd rather be called by these names above.
 
 ## 👤 Who am I?
