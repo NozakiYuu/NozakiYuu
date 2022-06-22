@@ -50,7 +50,44 @@ Although I have been learning how to code for 7 years until now, but I am still 
 <img alt="Java" src="https://img.shields.io/badge/Java-%23ED1D25.svg?style=flat-square&logo=java&logoColor=white" />
 </p>
 
-## Plans
-Currently I'm revising my knowledge to prepare for 3 next exams in September, December and next year, so I paused all of my coding plans just to focus more on studying.
+**More information**
+* 🔭 I am currently working as ***an independent Software Developer***
+* 💬 You can ask me about ***JavaScript, Node.JS or C#***
+* 😄 You can call me using my nickname or He/Him.
 
-*More parts are being updated, I just don't have time to write all of these today*
+## Plans
+Currently I'm revising my knowledge to prepare for 3 next exams at school in September, December and next year, so I paused all of my coding plans just to focus more on studying.<br>
+After finishing all of 3 exams, I will update my plans here.
+
+## Coding experience on GitHub
+### Streaks & Stats
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=NozakiYuu&show_icons=true&theme=gotham&count_private=true" alt="NozakiYuu" width="48%" align="right" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NozakiYuu&theme=dark" width="48%" align="left" />
+</p>
+<p style="clear: both; margin-top: 10px">
+<h3>Top Languages</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NozakiYuu&layout=compact&theme=dark" width="48%" />
+</p>
+
+### Favorite Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NozakiYuu&repo=DAWRPC&theme=dark)](https://github.com/NozakiYuu/DAWRPC) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NozakiYuu&repo=BilibiliDownloader&theme=dark)](https://github.com/NozakiYuu/BilibiliDownloader)
+
+## My Friends
+### Special Person
+
+[![Special Person](https://img.upanh.tv/2022/06/22/special.png)](https://fb.me/hien.duckie)
+
+### Co-workers
+<a href="https://www.github.com/MiyazakiKagura"><img src="https://github-readme-stats.vercel.app/api?username=MiyazakiKagura&show_icons=true&theme=gotham&count_private=true" width="30%" /></a>
+<a href="https://www.github.com/JustAPieOP"><img src="https://github-readme-stats.vercel.app/api?username=JustAPieOP&show_icons=true&theme=gotham&count_private=true" width="30%" /></a>
+<a href="https://www.github.com/ndbiaw"><img src="https://github-readme-stats.vercel.app/api?username=ndbiaw&show_icons=true&theme=gotham&count_private=true" width="30%" /></a>
+
+### Idol
+See what? My idol also has a GitHub account!
+
+<a href="https://www.github.com/ftl2nd"><img src="https://github-readme-stats.vercel.app/api?username=ftl2nd&show_icons=true&theme=gotham&count_private=true" width="50%" /></a>
+
+## Social Networks
+<a href="https://dsc.bio/nicolevianth"><img src="https://seeklogo.com/images/D/discord-icon-new-2021-logo-09772BF096-seeklogo.com.png" width="48px" /></a> <a href="https://www.facebook.com/Yonaka12"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Facebook-icon-1.png/640px-Facebook-icon-1.png" width="48px" /></a> <a href="https://www.youtube.com/c/yutorimegami"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/YouTube_social_red_square_%282017%29.svg/1200px-YouTube_social_red_square_%282017%29.svg.png" width="48px" /></a>
