@@ -71,7 +71,7 @@ After finishing all of 3 exams, I will update my plans here.
 
 ### Favorite Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NozakiYuu&repo=DAWRPC&theme=dark)](https://github.com/NozakiYuu/DAWRPC) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NozakiYuu&repo=BilibiliDownloader&theme=dark)](https://github.com/NozakiYuu/BilibiliDownloader)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NozakiYuu&repo=DAWRPC&theme=dark)](https://github.com/NozakiYuu/DAWRPC) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NozakiYuu&repo=BilibiliDownloader&theme=dark)](https://github.com/NozakiYuu/BilibiliDownloader) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NozakiYuu&repo=EasyRPGPlayer-Vietnamese&theme=dark)](https://github.com/NozakiYuu/EasyRPGPlayer-Vietnamese)
 
 ## My Friends
 ### Special Person
